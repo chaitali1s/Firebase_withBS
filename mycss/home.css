@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Muli);
+
+body{
+	font-family: 'Muli', sans-serif;
+}
+.error-text{
+	color:red;
+	font-size:1.2em;
+	text-align:center;
+}
+.header-custom{
+		background-color:#A7C238;
+		color:#147178;
+}
+.header-text{
+	text-align: center
+}
+.leftcolumn{
+	background-color:#147178;
+}
+.right-column{
+	height:137%;
+}
+.content-text{
+	text-align:justify;
+}
+.custom{
+	margin-top:20px;
+}
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
+.news-content{
+	text-overflow: ellipsis;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.custom-footer{
+	margin-bottom:0px;
+	background-color:#A7C238;
+	color:#147178;
+}
